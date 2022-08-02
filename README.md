@@ -10,7 +10,7 @@ Data was downloaded from the Citi Bike website in a csv format. It was then load
 
 The following link shows the full story created for this challenge in Tableau: 
 
-[link to dashboard](https://public.tableau.com/app/profile/emarie.covey/viz/NYCcitibike_16592842809790/NYCStory?publish=yes "link to dashboard")
+[link to dashboard](https://public.tableau.com/app/profile/emarie.covey/viz/NYCbikechallenge_16593954524580/NYCBikeUseStory "link to dashboard")
 
 The following are visualizations from the story, and include the main results of the images in the comments on each image: 
 
@@ -36,5 +36,5 @@ Here is a summary list of the analysis:
 - Most bikes have light to moderate use, but a few bikes have had significantly longer trip durations. These few bikes may be pinpointed and may require additional bike maintenance or replacement. 
 
 Two additional visualizations that would be beneficial to this analysis are: 
-- visualizing birth year and user type. This would help to see if there are age differences between customers and subscribers, and could help with marketing the bikes. This is because avertisements to subscribers would be different from advertisements to customers, and advertizing is also age-depedent. Perhaps subscribers are young working professionals commuting to work, and customers are older tourists visiting the city on weekends.
-- visualizing start station ID and end station ID. This would help to see where bikes are going. Are bikes flowing evenly, or are they pooling or running out in certain stations? If so, bikes would potentially need to be transported to even out availability throughout the stations. 
+- Visualizing birth year and user type. This would help to see if there are age differences between customers and subscribers, and could help with marketing the bikes. This is because avertisements to subscribers would be different from advertisements to customers, and advertizing is also age-depedent. Perhaps subscribers are young working professionals commuting to work, and customers are older tourists visiting the city on weekends.
+- Visualizing start station ID and end station ID. This would help to see where bikes are going. Are bikes flowing evenly, or are they pooling or running out in certain stations? If so, bikes would potentially need to be transported to even out availability throughout the stations. 
